@@ -1,5 +1,5 @@
 - I’m @willpower-dev
-- I develop free technology and tools for developers
+- I develop privacy-oriented free technology and tools for developers
 - I am learning FORTRAN and x86 Assembly
 - You can contact me at ut2cjt7u@duck.com though I do not currently repsond to emails.
 
