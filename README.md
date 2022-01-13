@@ -1,6 +1,7 @@
 - I’m @willpower-dev
 - I develop privacy-oriented free technology and tools for developers
-- I am learning FORTRAN and x86 Assembly
+- I use x86-Assembly, R, FORTRAN, C, C#, C++, Python, Java, Processing, SQL, PHP, Node.js, Javascript, CSS, HTML, and Markdown
+- I am looking to collaborate on Operating Systems for Video Game Consoles.
 - You can contact me at ut2cjt7u@duck.com though I do not currently repsond to emails.
 
 <!---
