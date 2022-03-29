@@ -1,10 +1,1 @@
-- I’m @willpower-dev
-- I develop privacy-oriented free technology and tools for developers
-- I use x86-Assembly, R, FORTRAN, C, C#, C++, Python, Java, Processing, SQL, PHP, Node.js, Javascript, CSS, HTML, and Markdown
-- I am looking to collaborate on Operating Systems for Video Game Consoles.
-- You can contact me at ut2cjt7u@duck.com though I do not currently repsond to emails.
 
-<!---
-willpower-dev/willpower-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
